@@ -1,4 +1,3 @@
-git: 'echo'no es un comando de git. Mira 'git --help'.
+# Notas
 
-El comando más similar es
-	fetch
+Apuntes y recolección de texto o fragmentos de código o tips para el uso de programas y sistemas operativos
